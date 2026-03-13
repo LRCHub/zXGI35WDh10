@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Outside",
+  "base_artist": "エラ・メイ",
+  "createdAt": "2026-03-13T15:25:19.251465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Laughing on the Outside",
+      "artist": "Bernadette Carroll",
+      "has_synced": true,
+      "path": "select/01_Laughing_on_the_Outside_Bernadette_Carroll.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Outside the Wall",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/02_Outside_the_Wall_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cold Outside",
+      "artist": "Ludacris feat. Chimere",
+      "has_synced": false,
+      "path": "select/03_Cold_Outside_Ludacris_feat._Chimere.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Leon Takes Us Outside",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Leon_Takes_Us_Outside_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Outside",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/05_Outside_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Outside",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Outside_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Outside",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Outside_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Could Take It Outside (feat. Flipmode Squad)",
+      "artist": "Busta Rhymes Featuring The Flipmode Squad",
+      "has_synced": false,
+      "path": "select/08_We_Could_Take_It_Outside_(feat._Flipmode_Squad)_Busta_Rhymes_Featuring_The_Flipmode_Squad.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Could Take It Outside",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/09_We_Could_Take_It_Outside_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Outside the City",
+      "artist": "Young Galaxy",
+      "has_synced": true,
+      "path": "select/10_Outside_the_City_Young_Galaxy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Still Can See an Outside World",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/11_I_Still_Can_See_an_Outside_World_Liars.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Outside",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/12_Outside_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Outside of This Car, the End of the World",
+      "artist": "Le Loup",
+      "has_synced": false,
+      "path": "select/13_Outside_of_This_Car,_the_End_of_the_World_Le_Loup.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Outside",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/14_Outside_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Outside (feat. Lex Aura, Lil Durk & Dave East)",
+      "artist": "Mozzy feat. Lex Aura, Lil Durk & Dave East",
+      "has_synced": false,
+      "path": "select/15_Outside_(feat._Lex_Aura,_Lil_Durk_&_Dave_East)_Mozzy_feat._Lex_Aura,_Lil_Durk_&_Dave_East.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Outside (feat. Lex Aura, Lil Durk & Dave East)",
+      "artist": "Mozzy",
+      "has_synced": false,
+      "path": "select/16_Outside_(feat._Lex_Aura,_Lil_Durk_&_Dave_East)_Mozzy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Outside",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Outside_Ella_Mai.txt"
+    }
+  ]
+}
